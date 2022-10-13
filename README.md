@@ -16,15 +16,15 @@
 2. [x] Include a few facts about the company. Try making this an unordered list!
 3. [x] On the same page, write a short bio about yourself.
 4. [x] Include an image that represents something about you - this could be a picture of yourself, an interest of yours, or maybe some art you created!
-5. [ ] On the home page (index.html), update with the correct company name.
-6. [ ] Then, replace the placeholder image with a company logo/image.
-7. [ ] On this same page, add a link to your Fellowship Agenda.
-8. [ ] On the contact page, update the page with your program information.
-9. [ ] Add your contact information to your contact page, including your:
-    - [ ] GitHub account
-    - [ ] Email address
-    - [ ] LinkedIn (if you already have one)
-    - [ ] Resume (if you already have one)
+5. [x] On the home page (index.html), update with the correct company name.
+6. [x] Then, replace the placeholder image with a company logo/image.
+7. [x] On this same page, add a link to your Fellowship Agenda.
+8. [x] On the contact page, update the page with your program information.
+9. [x] Add your contact information to your contact page, including your:
+    - [x] GitHub account
+    - [x] Email address
+    - [x] LinkedIn (if you already have one)
+    - [x] Resume (if you already have one)
 
 ## CSS
 
